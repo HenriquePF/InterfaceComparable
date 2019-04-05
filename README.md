@@ -1,0 +1,2 @@
+# InterfaceComparable
+Interface Comparable
